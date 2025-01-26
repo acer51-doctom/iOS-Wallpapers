@@ -1,5 +1,5 @@
 # iOS Wallpapers
-An archive of every iOS wallpaper officially released by Apple
+An archive of every iOS wallpaper officially released by Apple. Clone the repo to have every wallpapers available.
 
 - [iPhone](#iphone)
 - [iPad](#ipad)
